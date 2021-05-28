@@ -1,17 +1,21 @@
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
-# Contributor Covenant Code of Conduct
 
-## Our Pledge
+# Code of Conduct for the ALU Open Source Club
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
+
+The ALU open source club is dedicated to providing a safe space
+and a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual identity
-and orientation.
+nationality, personal appearance, race,  color, religion, or sexual identity
+and orientation. Harassment of any form is not tolerated 
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+This code of conduct applies to all ALU Open Source spaces, including discord server, mailing list, meetings, github discussions and other club actvities, both online and offline. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the CORE TEAM.
+
+
+## Reporting Harassment or Breach of Community Code of Conduct. 
+
+If you belive someone is violating the community code of conduct or being harrassed in any way, reach out to the core team on the discord server or send a mail to community@aluopensource.com and we will respond right away.
+
 
 ## Our Standards
 
@@ -28,43 +32,31 @@ community include:
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery, and sexual attention or
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
   advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
+* Threats of violence.
+* Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
+* Deliberate misgendering or use of ‘dead’ or rejected names.
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
+  -   Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
 * Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+  community setting
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of
+The CORE TEAM memebrs are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
-
-## Scope
-
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
-
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+reported to the CORE TEAM members on the discord server or by reacing out via email cummunity@aluopensource.com.
 All complaints will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the
+CORE TEAM members are obligated to respect the privacy and security of the
 reporter of any incident.
 
 ## Enforcement Guidelines
@@ -113,21 +105,3 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-[https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
-
-Community Impact Guidelines were inspired by 
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
-
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available 
-at [https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
